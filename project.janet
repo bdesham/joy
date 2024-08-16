@@ -5,12 +5,12 @@
                  {:repo "https://github.com/janet-lang/json" :tag "61437d96b5df6eb7e524f88847e7d7521201662d"}
                  {:repo "https://github.com/janet-lang/path" :tag "0ae7b60b8aaaa7f80f84692b7efb8e46b7d38eb3"}
                  {:repo "https://github.com/pyrmont/musty" :tag "e1a821940072a5ae5ddc9d3cb2ae6d1bdba41468"}
+                 {:repo "https://github.com/bdesham/sqlite3" :branch "update-sqlite"}
                  "https://github.com/joy-framework/cipher"
                  "https://github.com/joy-framework/halo2"
                  "https://github.com/joy-framework/tester"
                  "https://github.com/joy-framework/db"
-                 "https://github.com/swlkr/janet-html"
-                 "https://github.com/janet-lang/sqlite3"]
+                 "https://github.com/swlkr/janet-html"]
   :author "Sean Walker"
   :license "MIT"
   :url "https://github.com/joy-framework/joy"
